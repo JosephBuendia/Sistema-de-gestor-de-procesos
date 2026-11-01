@@ -1,0 +1,8 @@
+# Archivos generados por Dev-C++ al compilar
+*.o
+*.exe
+*.layout
+Makefile.win
+
+# Archivo de guardado del programa (cada uno tiene el suyo)
+sistema_procesos.txt
